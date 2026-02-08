@@ -62,12 +62,12 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Pneumonia+Detection" width="100%" style="border-radius: 10px;" />
+      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Medical+ML" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>🩻 Medical Machine Learning</h3>
       <p>
-        <b>Pneumonia Detection from X-Ray Data.</b> Led an end-to-end supervised learning investigation to enable non-clinical staff to make fast, reliable diagnoses. Features data cleaning, feature engineering, and model optimization (SVM, Random Forest, KNN).
+        Directed an end-to-end supervised learning investigation for <b>Pneumonia detection</b> using X-ray feature data. Implemented rigorous preprocessing (median imputation, scaling) and conducted a comparative performance analysis between <b>Decision Trees, k-Nearest Neighbors, and Naive Bayes</b> to optimize diagnostic sensitivity.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -90,15 +90,15 @@
     <td width="300">
       <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=RL+MedNAS" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>🧬 RL MedNAS</h3>
       <p>
-        Research repository focused on <b>Reinforcement Learning</b> and Neural Architecture Search (NAS) within the medical domain. Explores automating the design of neural networks for medical imaging tasks.
+        Engineered an autonomous <b>Reinforcement Learning Controller (RNN)</b> to design CNN architectures for medical imaging. The 'Masked' agent integrates domain-specific validity rules, achieving <b>96.7% accuracy</b> on MedMNIST while reducing parameter count by <b>300%</b> compared to Random Search baselines.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/Reinforcement_Learning-000000?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Reinforcement_Learning-7B1FA2?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Ashwashhere/RLMedNAS">
@@ -114,17 +114,18 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=ML+AutoTrader" width="100%" style="border-radius: 10px;" />
+      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Price+Prediction" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
-      <h3>📈 Machine Learning AutoTrader</h3>
+    <td valign="top">
+      <h3>📈 Predictive Analytics: Car Valuation</h3>
       <p>
-        Automated trading systems utilizing machine learning algorithms to analyze financial data and execute strategies.
+        Constructed a robust regression pipeline to predict vehicle market values, achieving an <b>R² of 0.90</b>. Implemented <b>Target Encoding</b> for high-cardinality features and optimized a <b>Random Forest Regressor</b> via Grid Search, reducing Mean Absolute Percentage Error (MAPE) to <b>15.58%</b>.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Finance-00C853?style=flat-square&logo=google-sheets&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Ashwashhere/MachineLearningAutoTrader">
@@ -148,13 +149,13 @@
     <td width="300">
       <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Sword+Scourge+Gameplay" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>⚔️ Sword Scourge</h3>
       <p>
-        <b>2D Action-Adventure Dissertation Project.</b> Managed the complete development lifecycle. Implemented core mechanics including responsive character controls, state-driven enemy AI, physics-based interactions, and a multi-attack combat system.
+        Engineered a 2D action-adventure platformer in <b>Godot</b>. Designed a robust <b>Finite State Machine (FSM)</b> for enemy AI (Idle, Chase, Attack) and implemented a precise <b>4-hit combo system</b> using Area2D Hitbox/Hurtbox logic. Features include <b>KinematicBody2D</b> physics, parallax background scrolling, and signal-driven UI state management.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
+        <img src="https://img.shields.io/badge/Godot_3.5-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
         <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
         <img src="https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
       </p>
@@ -174,14 +175,14 @@
     <td width="300">
       <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=2D+Prototypes" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>🕹️ 2D Game Prototypes</h3>
       <p>
-        A dedicated repository for 2D game prototypes, focusing on level design, UI/UX implementation, and physics interactions.
+        A dedicated sandbox for iterative mechanics testing and rapid prototyping. Focuses on modular implementations of <b>character controllers</b>, environmental physics interactions, and <b>asset integration workflows</b>. Served as the technical testbed for core mechanics (jumping gravity, collision layers) prior to deployment in Sword Scourge.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
-        <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
+        <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processing&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Ashwashhere/2D-Game">
@@ -205,14 +206,13 @@
     <td width="300">
       <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Robot+Navigation" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>🤖 Search Algorithms & Robot Navigation</h3>
       <p>
-        Implementation of pathfinding and search algorithms for autonomous robot navigation agents.
+        Engineered a robotic navigation simulation in a dynamic grid world. Implemented and benchmarked <b>BFS, DFS, Uniform Cost Search (UCS), and A*</b> algorithms. The project features a custom <b>GUI</b> for real-time visualization and includes comprehensive batch testing to analyze path costs, node expansion rates, and time complexity.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Ashwashhere/SearchAlgorithms-RobotNavigation">
@@ -230,18 +230,68 @@
     <td width="300">
       <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Algorithms+%26+DS" width="100%" style="border-radius: 10px;" />
     </td>
-    <td>
+    <td valign="top">
       <h3>📚 Algorithms & Data Structures</h3>
       <p>
-        A collection of core CS implementations including sorting, searching, and graph traversal.
+        Implemented a library of advanced static and dynamic data structures (Trees, Graphs, Hash Maps) focusing on algorithmic efficiency. Conducted rigorous <b>Big-O time complexity analysis</b> for sorting and searching operations. Utilized <b>Generics</b> to ensure type safety, code reusability, and maintainability across the codebase.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/Ashwashhere/AlgorithmsAndDataStructures">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="300">
+      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Programming+Paradigms" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td valign="top">
+      <h3>🧩 Programming Paradigms</h3>
+      <p>
+        Developed three distinct implementations of the <b>Battleships</b> game to explore multi-paradigmatic problem solving. Contrasted <b>Rust's</b> functional safety and immutability with <b>Prolog's</b> declarative logic resolution and <b>Python's</b> Object-Oriented state management. Analyzed execution flow and performance trade-offs across paradigms.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prolog-DC322F?style=flat-square&logo=swi-prolog&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Ashwashhere/ProgrammingLanguages-Paradims">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="300">
+      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Web+Design" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td valign="top">
+      <h3>🌐 Web Design</h3>
+      <p>
+        Responsive front-end development projects emphasizing modern <b>UI/UX principles</b>. Features semantic HTML5 architecture, adaptive CSS layouts using <b>Flexbox and Grid</b>, and JavaScript interactivity to ensure seamless cross-platform accessibility.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        <a href="https://github.com/Ashwashhere/WebDesign">
           <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
         </a>
       </p>
