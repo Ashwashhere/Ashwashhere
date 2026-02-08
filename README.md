@@ -62,7 +62,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Medical+ML" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/791d2623aed5bbcda96495001f2aa09ae393739f/Medical%20Machine%20Learning.jpg" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🩻 Medical Machine Learning</h3>
@@ -88,7 +88,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=RL+MedNAS" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/3c811456d421e53a90465e3798c950f192c880b3/RLMedNAS.jpg" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🧬 RL MedNAS</h3>
@@ -114,7 +114,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Price+Prediction" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/9a4a8433b694ce7a52e05f467d91f6a50e6ceb7f/autotrader.jpg" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>📈 Predictive Analytics: Car Valuation</h3>
@@ -147,7 +147,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Sword+Scourge+Gameplay" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/b05abbcc7483552dbc26e705a3c7347947a6b4e5/Screen%20Recording%202026-02-08%20at%2019.09.42.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>⚔️ Sword Scourge</h3>
