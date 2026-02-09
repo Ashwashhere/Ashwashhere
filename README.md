@@ -147,7 +147,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/b18cbcc339fb45f0e51e261fef8e90464546014c/README.md" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/7e83b20969f09917cff3d9cda2ad68a1f388717a/sqaureSwordScoureFill.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>⚔️ Sword Scourge</h3>
@@ -173,10 +173,10 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=2D+Prototypes" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/fbdc6b386f76da248c42a68423ebab967d77bed5/Gemini_Generated_Image_ehjn7yehjn7yehjn.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
-      <h3>🕹️ 2D Game Prototypes</h3>
+      <h3>🕹️ 2D Game Prototype</h3>
       <p>
         A dedicated sandbox for iterative mechanics testing and rapid prototyping. Focuses on modular implementations of <b>character controllers</b>, environmental physics interactions, and <b>asset integration workflows</b>. Served as the technical testbed for core mechanics (jumping gravity, collision layers) prior to deployment in Sword Scourge.
       </p>
@@ -204,7 +204,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Robot+Navigation" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/568999880a1878a1e583e76ed1ec79b031ec7878/searchVideo.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🤖 Search Algorithms & Robot Navigation</h3>
@@ -228,7 +228,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Algorithms+%26+DS" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/e26347ea409a1d147ee4be699be25df10a676205/alganddsss.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>📚 Algorithms & Data Structures</h3>
@@ -252,7 +252,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Programming+Paradigms" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/e4ab21bc2f58629769dbc9b77291ae53f770e6d7/battleshipsPython.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🧩 Programming Paradigms</h3>
@@ -278,7 +278,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://via.placeholder.com/300x180/0d1117/FFFFFF?text=Web+Design" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/14f63af6770e78240403ebe5a1d790a59879d0b3/webDesign.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🌐 Web Design</h3>
