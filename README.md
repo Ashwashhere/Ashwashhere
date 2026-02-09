@@ -147,7 +147,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/b05abbcc7483552dbc26e705a3c7347947a6b4e5/Screen%20Recording%202026-02-08%20at%2019.09.42.gif" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/b18cbcc339fb45f0e51e261fef8e90464546014c/README.md" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>⚔️ Sword Scourge</h3>
