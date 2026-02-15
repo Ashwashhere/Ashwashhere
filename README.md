@@ -88,7 +88,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/3c811456d421e53a90465e3798c950f192c880b3/RLMedNAS.jpg" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/33e697d4179819c40b5faac0b80e1846054cac8a/nas_comparison_plot.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🧬 RL MedNAS</h3>
