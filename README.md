@@ -12,7 +12,7 @@
   </p>
   
   <p>
-    <a href="https://www.linkedin.com/in/ash-nelson-825ab8384">
+    <a href="www.linkedin.com/in/ashnelsoncsai">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
     </a>
     &nbsp; &nbsp;
