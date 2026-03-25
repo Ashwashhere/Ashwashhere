@@ -25,51 +25,51 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🛠️ Tech Stack</h3>
 
-  <strong>Languages</strong><br/>
-  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-1E1E1E?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prolog-1E1E1E?style=for-the-badge&logo=swi-prolog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/><br/>
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-1E1E1E?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-1E1E1E?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/><br/>
 
-  <strong>AI, Robotics & Data Science</strong><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-1E1E1E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
-  <img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS_Noetic-1E1E1E?style=for-the-badge&logo=ros&logoColor=white" />
-  <br/><br/>
+  <strong>AI, Robotics & Data Science</strong><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-1E1E1E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
+  <img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_Noetic-1E1E1E?style=for-the-badge&logo=ros&logoColor=white" />
+  <br/><br/>
 
-  <strong>Game Development</strong><br/>
-  <img src="https://img.shields.io/badge/Godot-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
-  <img src="https://img.shields.io/badge/GDScript-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Processing-1E1E1E?style=for-the-badge&logo=processing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-1E1E1E?style=for-the-badge&logo=aseprite&logoColor=white" />
-  <br/><br/>
+  <strong>Game Development</strong><br/>
+  <img src="https://img.shields.io/badge/Godot-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img src="https://img.shields.io/badge/GDScript-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Processing-1E1E1E?style=for-the-badge&logo=processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-1E1E1E?style=for-the-badge&logo=aseprite&logoColor=white" />
+  <br/><br/>
 
-  <strong>Networking & Cybersecurity</strong><br/>
-  <img src="https://img.shields.io/badge/Networking-1E1E1E?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1E1E1E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-1E1E1E?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <br/><br/>
+  <strong>Networking & Cybersecurity</strong><br/>
+  <img src="https://img.shields.io/badge/Networking-1E1E1E?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1E1E1E?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-1E1E1E?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <br/><br/>
 
-  <strong>Tools & Databases</strong><br/>
-  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebooks-1E1E1E?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-  <img src="https://img.shields.io/badge/RStudio-1E1E1E?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <strong>Tools & Databases</strong><br/>
+  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks-1E1E1E?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/RStudio-1E1E1E?style=for-the-badge&logo=rstudio&logoColor=white" />
 </div>
 
 ---
@@ -78,6 +78,33 @@
 
 <details open>
 <summary><b>🤖 Artificial Intelligence & Machine Learning</b> (Click to Collapse/Expand)</summary>
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="300">
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/ad814007ea31a9c0284ca908ac551a33ac8a9e3e/image_2026-03-25_200854964.png" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td valign="top">
+      <h3>🚗 Advanced ML: UK Car Valuation</h3>
+      <p>
+        Developed an advanced predictive pipeline for UK used car valuations using a dataset of ~402,000 listings. Engineered features using smoothed Target Encoding and RFECV, and implemented a novel approach combining <b>SHAP (Explainable AI)</b> values with <b>K-Means Clustering</b> to optimize Gradient Boosting regression models.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Ashwashhere/AdvancedMachineLearning_CarValuation">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 <table border="0" width="100%">
