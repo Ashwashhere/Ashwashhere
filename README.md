@@ -86,7 +86,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/7e83b20969f09917cff3d9cda2ad68a1f388717a/robotSquare.gif?raw=true" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/01fc026a52c52eb2942c56431b17598df6ba66d1/robotSquarePA6.gif" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🤖 ROS Kinematics & Autonomous Control (TurtleBot3)</h3>
@@ -103,7 +103,7 @@
         <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Ashwashhere/ROS_RobotKinematics_Implementations">
+        <a href="https://github.com/Ashwashhere/ROS-Kinematics-Autonomous-Control/tree/main">
           <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
         </a>
       </p>
