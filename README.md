@@ -86,6 +86,36 @@
 <table border="0" width="100%">
   <tr>
     <td width="300">
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/7e83b20969f09917cff3d9cda2ad68a1f388717a/robotSquare.gif?raw=true" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td valign="top">
+      <h3>🤖 ROS Kinematics & Autonomous Control (TurtleBot3)</h3>
+      <p>
+        Engineered a suite of robot control nodes within a <b>Catkin workspace</b> using Python and the <b>Robot Operating System (ROS)</b>. Developed both open-loop velocity sequencing and real-time, closed-loop kinematic control for TurtleBot3 burger variants simulated within <b>Gazebo environments</b>.
+      </p>
+      <p>
+        Features real-time <b>closed-loop odometry tracking (<code>/odom</code> feedback)</b>, custom multi-parameter communication layers (compiled <code>.srv</code> configurations), and automated multi-node deployment via custom <code>.launch</code> schemas.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gazebo-FF9900?style=flat-square&logo=gazebo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Ashwashhere/ROS_RobotKinematics_Implementations">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="300">
       <img src="https://github.com/Ashwashhere/Ashwashhere/blob/ad814007ea31a9c0284ca908ac551a33ac8a9e3e/image_2026-03-25_200854964.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
