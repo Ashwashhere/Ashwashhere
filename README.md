@@ -129,7 +129,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/ad814007ea31a9c0284ca908ac551a33ac8a9e3e/image_2026-03-25_200854964.png" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/750b9c4d2dfde75fd6db623d1c061315f1efa927/car_valuation_thumbnail.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🚗 Advanced ML: UK Car Valuation</h3>
