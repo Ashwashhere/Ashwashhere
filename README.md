@@ -134,11 +134,14 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
     <td valign="top">
       <h3>🚗 Advanced ML: UK Car Valuation</h3>
       <p>
-        Developed an advanced predictive pipeline for UK used car valuations using a dataset of ~402,000 listings. Engineered features using smoothed Target Encoding and RFECV, and implemented a novel approach combining <b>SHAP (Explainable AI)</b> values with <b>K-Means Clustering</b> to optimize Gradient Boosting regression models.
+        Developed a comprehensive machine learning architecture using a dataset of ~402,000 listings to optimize vehicle valuations. Engineered an end-to-end pipeline utilizing smoothed Target Encoding, RFECV feature selection, and Voting/Stacking Meta-Ensembles to push predictive accuracy ($R^2 = 0.927$). Integrated SHAP (Explainable AI) waterfall metrics with a multi-algorithm clustering suite (K-Means, DBSCAN, and Hierarchical Wards Linkage) to dynamically map out latent automotive market segments.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/SHAP-000000?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
