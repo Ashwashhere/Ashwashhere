@@ -8,7 +8,7 @@
 
 <div align="center">
   <p width="60%">
-I am a highly motivated Computer Science graduate (First-Class) and Artificial Intelligence postgraduate (Distinction) from Manchester Metropolitan University, combining a strong foundation in full-stack software engineering with advanced AI research. My expertise spans building end-to-end applications and deploying deep reinforcement learning architectures, utilizing frameworks like PyTorch, MONAI, and PyTorch Geometric. I am particularly passionate about medical data science and intelligent systems, having engineered RLMedNAS—a framework exploring how neural architecture search can optimize liver cirrhosis classification and medical diagnostics.
+I am a highly motivated Computer Science graduate (First-Class) and Artificial Intelligence postgraduate (Distinction) from Manchester Metropolitan University, combining a strong foundation in full-stack software engineering with advanced AI research. My expertise spans building end-to-end applications and deploying deep reinforcement learning architectures, utilising frameworks like PyTorch, MONAI, and PyTorch Geometric. I am particularly passionate about medical data science and intelligent systems, having engineered RLMedNAS, a framework exploring how neural architecture search can optimise liver cirrhosis classification and medical diagnostics.
   </p>
   
   <p>
