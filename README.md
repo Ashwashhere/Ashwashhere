@@ -22,7 +22,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
   </p>
 </div>
 
----
+<hr />
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
@@ -87,7 +87,8 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
   <img src="https://img.shields.io/badge/RStudio-1E1E1E?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Databases-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
----
+
+<hr />
 
 <h3>📂 Interactive Project Portfolio</h3>
 
