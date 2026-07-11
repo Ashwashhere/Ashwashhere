@@ -22,7 +22,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
   </p>
 </div>
 
----
+
 
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
