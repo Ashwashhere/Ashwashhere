@@ -146,7 +146,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Ashwashhere/Ashwashhere/blob/750b9c4d2dfde75fd6db623d1c061315f1efa927/car_valuation_thumbnail.png">
+        <a href="https://github.com/Ashwashhere/AdvancedMachineLearning_CarValuation">
           <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
         </a>
       </p>
