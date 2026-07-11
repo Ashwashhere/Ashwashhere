@@ -25,9 +25,9 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
 ---
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🛠️ Tech Stack</h3>
 
-<strong>Languages & Frameworks</strong><br/>
+  <strong>Languages & Frameworks</strong><br/>
   <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
@@ -45,38 +45,48 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
   <img src="https://img.shields.io/badge/JSON-1E1E1E?style=for-the-badge&logo=json&logoColor=white" />
   <br/><br/>
 
-  <strong>AI, Robotics & Data Science</strong><br/>
-  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-1E1E1E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
-  <img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS_Noetic-1E1E1E?style=for-the-badge&logo=ros&logoColor=white" />
-  <br/><br/>
+  <strong>AI, Robotics & Data Science</strong><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/PyTorch-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/MONAI-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-1E1E1E?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Architecture_Search-1E1E1E?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-1E1E1E?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-1E1E1E?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-1E1E1E?style=for-the-badge&logo=numpy&logoColor=4D77CF" />
+  <img src="https://img.shields.io/badge/Matplotlib-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS_Noetic-1E1E1E?style=for-the-badge&logo=ros&logoColor=white" />
+  <br/><br/>
 
-  <strong>Game Development</strong><br/>
-  <img src="https://img.shields.io/badge/Godot-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
-  <img src="https://img.shields.io/badge/GDScript-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Processing-1E1E1E?style=for-the-badge&logo=processing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aseprite-1E1E1E?style=for-the-badge&logo=aseprite&logoColor=white" />
-  <br/><br/>
+  <strong>Game Development</strong><br/>
+  <img src="https://img.shields.io/badge/Godot-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img src="https://img.shields.io/badge/GDScript-1E1E1E?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Processing-1E1E1E?style=for-the-badge&logo=processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aseprite-1E1E1E?style=for-the-badge&logo=aseprite&logoColor=white" />
+  <br/><br/>
 
-  <strong>Networking & Cybersecurity</strong><br/>
-  <img src="https://img.shields.io/badge/Networking-1E1E1E?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1E1E1E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-1E1E1E?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <br/><br/>
+  <strong>Networking & Cybersecurity</strong><br/>
+  <img src="https://img.shields.io/badge/Networking-1E1E1E?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1E1E1E?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical_Hacking-1E1E1E?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <br/><br/>
 
-  <strong>Tools & Databases</strong><br/>
-  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebooks-1E1E1E?style=for-the-badge&logo=jupyter&logoColor=F37626" />
-  <img src="https://img.shields.io/badge/RStudio-1E1E1E?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <strong>MLOps & Infrastructure</strong><br/>
+  <img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-1E1E1E?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu_Linux-1E1E1E?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/UTM_Virtualization-1E1E1E?style=for-the-badge&logo=linux&logoColor=white" />
+  <br/><br/>
+
+  <strong>Tools & Databases</strong><br/>
+  <img src="https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-1E1E1E?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks-1E1E1E?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/RStudio-1E1E1E?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-
 ---
 
 <h3>📂 Interactive Project Portfolio</h3>
