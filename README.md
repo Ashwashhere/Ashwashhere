@@ -90,7 +90,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
 
 <hr />
 
-<h3>📂 Interactive Project Portfolio</h3>
+<h3>📂 Project Portfolio</h3>
 
 <details open>
 <summary><b>🤖 Artificial Intelligence & Machine Learning</b> (Click to Collapse/Expand)</summary>
