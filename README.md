@@ -8,7 +8,7 @@
 
 <div align="center">
   <p width="60%">
-    I am a highly motivated <b>Computer Science graduate</b> currently expanding my expertise in <b>Artificial Intelligence</b> at Manchester Metropolitan University. My academic and research focus has deepened into advanced deep learning architectures, specifically <b>Convolutional Neural Networks (CNNs)</b>, <b>Recurrent Neural Networks (RNNs)</b>, and <b>Reinforcement Learning</b>. I am particularly passionate about <b>Medical Neural Architecture Search (MedNAS)</b>, exploring how AI can optimise medical diagnostics.
+I am a highly motivated Computer Science graduate (First-Class) and Artificial Intelligence postgraduate (Distinction) from Manchester Metropolitan University, combining a strong foundation in full-stack software engineering with advanced AI research. My expertise spans building end-to-end applications and deploying deep reinforcement learning architectures, utilizing frameworks like PyTorch, MONAI, and PyTorch Geometric. I am particularly passionate about medical data science and intelligent systems, having engineered RLMedNAS—a framework exploring how neural architecture search can optimize liver cirrhosis classification and medical diagnostics.
   </p>
   
   <p>
