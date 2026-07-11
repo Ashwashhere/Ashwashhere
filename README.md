@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.comfont=VT323&size=60&duration=3000&pause=1000&color=20C20E&background=000000&center=true&vCenter=true&width=1400&height=180&lines=Hello+World;MSc+Artificial+Intelligence+Postgraduate+%28Distinction%29;BSc+Computer+Science+Graduate+%28First+Class%29;Specialising+in+Advanced+Machine+Learning+%26+Deep+Reinforcement+Learning;Software+Engineer;Game+Developer" alt="Typing SVG" width="100%" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=60&duration=3000&pause=1000&color=20C20E&background=000000&center=true&vCenter=true&width=1400&height=180&lines=Hello+World;MSc+Artificial+Intelligence+Postgraduate+%28Distinction%29;BSc+Computer+Science+Graduate+%28First+Class%29;Specialising+in+Advanced+Machine+Learning+%26+Deep+Reinforcement+Learning;Software+Engineer;Game+Developer" alt="Typing SVG" width="100%" />
+</a>
 </div>
 
 <br/>
