@@ -27,21 +27,23 @@
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
 
-  <strong>Languages & Frameworks</strong><br/>
-  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-1E1E1E?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prolog-1E1E1E?style=for-the-badge&logo=swi-prolog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br/><br/>
+<strong>Languages & Frameworks</strong><br/>
+  <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1E1E1E?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1E1E1E?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-1E1E1E?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-1E1E1E?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1E1E1E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-1E1E1E?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-1E1E1E?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prolog-1E1E1E?style=for-the-badge&logo=swi-prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-1E1E1E?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-1E1E1E?style=for-the-badge&logo=json&logoColor=white" />
+  <br/><br/>
 
   <strong>AI, Robotics & Data Science</strong><br/>
   <img src="https://img.shields.io/badge/TensorFlow-1E1E1E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
