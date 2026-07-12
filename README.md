@@ -185,7 +185,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/33e697d4179819c40b5faac0b80e1846054cac8a/nas_comparison_plot.png" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/93f4f12c04023d28b1848c03c99d063a1e6c491a/rl_mednas_social_preview.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🧬 RL MedNAS</h3>
