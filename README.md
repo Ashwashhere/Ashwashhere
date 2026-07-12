@@ -190,7 +190,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
     <td valign="top">
       <h3>🧬 RL MedNAS</h3>
       <p>
-        Engineered an autonomous <b>Reinforcement Learning Controller (RNN)</b> to design CNN architectures for medical imaging. The 'Masked' agent integrates domain-specific validity rules, achieving <b>96.7% accuracy</b> on MedMNIST while reducing parameter count by <b>300%</b> compared to Random Search baselines.
+Engineered an autonomous Reinforcement Learning Controller (RNN) to discover high-performance CNN architectures tailored for medical imaging. By integrating domain-specific constraints directly into a "Masked" agent, the system prunes invalid network structures before evaluation. This intelligent search space reduction achieves 96.7% accuracy on MedMNIST benchmarks while slashing final parameter footprints by 3x against standard Random Search methods.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
