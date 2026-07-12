@@ -192,14 +192,14 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
       <p>
 Engineered an autonomous Reinforcement Learning Controller (RNN) to discover high-performance CNN architectures tailored for medical imaging. By integrating domain-specific constraints directly into a "Masked" agent, the system prunes invalid network structures before evaluation. This intelligent search space reduction achieves 96.7% accuracy on MedMNIST benchmarks while slashing final parameter footprints by 3x against standard Random Search methods.
       </p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-7B1FA2?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MedMNIST-008080?style=flat-square&logo=dataverse&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/Reinforcement_Learning-7B1FA2?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/MedMNIST-008080?style=flat-square&logo=dataverse&logoColor=white" />
+          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+          <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
+        </p>
       <p>
         <a href="https://github.com/Ashwashhere/RLMedNAS">
           <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
