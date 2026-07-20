@@ -159,7 +159,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/791d2623aed5bbcda96495001f2aa09ae393739f/Medical%20Machine%20Learning.jpg" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/2107976fbbd0a2b81679057c2059bd3c66ea9d9f/portfolio_thumbnail.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🩻 Medical Machine Learning</h3>
