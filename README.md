@@ -217,7 +217,7 @@ Engineered an autonomous Reinforcement Learning Controller (RNN) to discover hig
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/9a4a8433b694ce7a52e05f467d91f6a50e6ceb7f/autotrader.jpg" width="100%" style="border-radius: 10px;" />
+      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/10f7dc4ae61da56d69bb3e155ee3a83c1766086d/atml_portfolio.png" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>📈 Predictive Analytics: Car Valuation</h3>
