@@ -164,7 +164,7 @@ I am a highly motivated Computer Science graduate (First-Class) and Artificial I
     <td valign="top">
       <h3>🩻 Medical Machine Learning</h3>
       <p>
-        Directed an end-to-end supervised learning investigation for <b>Pneumonia detection</b> using X-ray feature data. Implemented rigorous preprocessing (median imputation, scaling) and conducted a comparative performance analysis between <b>Decision Trees, k-Nearest Neighbors, and Naive Bayes</b> to optimize diagnostic sensitivity.
+        Directed an end-to-end medical ML investigation diagnosing Pneumonia across dual modalities: tabular clinical metrics and raw chest X-ray imagery. Built automated Scikit-Learn pipelines featuring stratified 5-fold cross-validation, class balancing (class_weight='balanced'), and soft-voting ensembles combining Decision Trees, Support Vector Machines, and Logistic Regression to optimize diagnostic recall.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
