@@ -222,14 +222,16 @@ Engineered an autonomous Reinforcement Learning Controller (RNN) to discover hig
     <td valign="top">
       <h3>📈 Predictive Analytics: Car Valuation</h3>
       <p>
-        Constructed a robust regression pipeline to predict vehicle market values, achieving an <b>R² of 0.90</b>. Implemented <b>Target Encoding</b> for high-cardinality features and optimized a <b>Random Forest Regressor</b> via Grid Search, reducing Mean Absolute Percentage Error (MAPE) to <b>15.58%</b>.
+          Engineered a leak-free regression pipeline using Scikit-Learn ColumnTransformer to predict UK used car market values, achieving an R² of 0.90. Implemented Target Encoding for high-cardinality features (>100 unique categories), outlier clipping, and frequency encoding alongside a GridSearchCV-tuned Random Forest Regressor, reducing Mean Absolute Percentage Error (MAPE) to 15.58%.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
       <p>
         <a href="https://github.com/Ashwashhere/MachineLearningAutoTrader">
           <img src="https://img.shields.io/badge/View_Repository-238636?style=for-the-badge&logo=github&logoColor=white" height="30"/>
