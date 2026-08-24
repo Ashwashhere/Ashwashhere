@@ -278,7 +278,7 @@ Engineered an autonomous Reinforcement Learning Controller (RNN) to discover hig
 <table border="0" width="100%">
   <tr>
     <td width="300">
-      <img src="https://github.com/Ashwashhere/Ashwashhere/blob/fbdc6b386f76da248c42a68423ebab967d77bed5/Gemini_Generated_Image_ehjn7yehjn7yehjn.png" width="100%" style="border-radius: 10px;" />
+      <img src="" width="100%" style="border-radius: 10px;" />
     </td>
     <td valign="top">
       <h3>🕹️ 2D Game Prototype</h3>
